@@ -19,3 +19,12 @@ Topics Include:
 • Databases of all types SQL and NoSQL: MySQL, Postgres, MongoDB, Couchbase, and Graphql
 
 If you're interested in any of these things, regardless of your skill level, please feel free to join us.
+
+
+## Links
+
+Website: http://eugenewebdevs.com/
+
+facebook: https://www.facebook.com/eugenewebdevs
+
+twitter: https://twitter.com/eugenewebdevs
