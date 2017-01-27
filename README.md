@@ -6,7 +6,7 @@ Meet up with local web developers to network and learn about current technologie
 
 Topics Include:
 
-• Development in all web related arenas like web pages, mobile/native applications, and integrations
+• Development in all web related areas like web pages, mobile/native applications, and integrations
 
 • Web development languages such as Javascript, Python, Ruby, .NET, PHP, HTML and CSS
 
