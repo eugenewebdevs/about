@@ -12,7 +12,9 @@ Topics Include:
 
 • Frameworks like Rails, Django, Express, Laravel, and React
 
-• Projects in popular environments Wordpress, Joomla, and Drupal
+• Projects in popular CMSs like Wordpress, Joomla, and Drupal
+
+• Cloud services like AWS, Google Cloud, and Azure
 
 • Design trends and paradigms such as Bootstrap, Foundation, and Material Design
 
@@ -30,3 +32,5 @@ facebook: https://www.facebook.com/eugenewebdevs
 YouTube: https://www.youtube.com/channel/UCRXRsCJF_H0Ue3g-u9_FmAg
 
 twitter: https://twitter.com/eugenewebdevs
+
+meetup: https://www.meetup.com/eugenewebdevs/
