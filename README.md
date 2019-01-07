@@ -1,6 +1,8 @@
 # About Eugene Web Devs
 
-Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month, we'll host curated presentations and workshops focused on all things related to web development. We're enthusiastic about learning and getting to know each other in Eugene's growing tech scene.
+Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month, we'll host curated presentations and workshops focused on all things related to web development. 
+
+We're enthusiastic about learning and getting to know each other in Eugene's growing tech scene.
 
 💻 🍕 🍺
 
