@@ -1,6 +1,6 @@
 # About Eugene Web Devs
 
-Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month, we'll host curated presentations focused on all things related to web development. 
+Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month Except Novemeber and December), we'll host curated presentations focused on all things related to web development. 
 
 We're enthusiastic about learning and getting to know each other in Eugene's growing tech scene.
 
@@ -38,3 +38,5 @@ YouTube: https://www.youtube.com/channel/UCRXRsCJF_H0Ue3g-u9_FmAg
 twitter: https://twitter.com/eugenewebdevs
 
 meetup: https://www.meetup.com/eugenewebdevs/
+
+Note: You do not have to RSVP at meetup.com ever. It does help inform the amount of pizza to get and has heleped gain sponsoerships for the meetup.
