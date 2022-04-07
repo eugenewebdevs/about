@@ -1,10 +1,12 @@
 # About Eugene Web Devs
 
-Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month, we'll host curated presentations and workshops focused on all things related to web development. 
+Meet up with local web developers to network and learn about current technologies. Every last Thursday of the month, we'll host curated presentations focused on all things related to web development. 
 
 We're enthusiastic about learning and getting to know each other in Eugene's growing tech scene.
 
 💻 🍕 🍺
+
+You don't have to bring anything and it is always free and open for everyone regardless of skill levels.
 
 Topics Include:
 
@@ -22,7 +24,7 @@ Topics Include:
 
 • Databases of all types SQL and NoSQL: MySQL, Postgres, MongoDB, Couchbase, and Graphql
 
-If you're interested in any of these things, regardless of your skill level, please feel free to join us.
+If you're interested in any of these things, please feel free to join us.
 
 
 ## Links
