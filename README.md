@@ -8,7 +8,13 @@ We're enthusiastic about learning and getting to know each other in Eugene's gro
 
 You don't have to bring anything and it is always free and open for everyone regardless of skill levels.
 
-Topics Include:
+## Format
+
+We host presentaions on web technologies. Generally 30-45 min long with slides. These are not workshops unless specified.
+
+Noramlly we get started at 6:30pm and hangout to chat a little after the presentation.
+
+### Topics Include:
 
 • Development in all web related areas like web pages, mobile/native applications, and integrations
 
